@@ -1,85 +1,83 @@
-<h1 align="center">👋 Hi, I'm Bishal Chakraborty</h1>
-<h3 align="center">🚀 Full Stack Software Engineer | OakNorth | ex- Automation : Merchant Experience @PhonePe | Java | Spring Boot | Python | Django | REST API | System Design & API Integrations | Cryptography & AI/ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyanweshi11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<h1>Bishal Chakraborty</h1>
 
----
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=680&lines=Backend+%26+AI+Engineer;Event-driven+pipelines+in+Python;FastAPI+%C2%B7+LangGraph+%C2%B7+AWS;Building+agentic+systems+in+public" alt="typing"/></a>
 
-## 🚀 About Me  
-- 🔥 **Currently:** Software Engineer Automation - Merchants @ **PhonePe**  
-- 🎯 **Aspiration:** Transitioning into an **SDE-2 Backend Role (FAANG Ready)**  
-- 🛠 **Tech Stack:** Java, Spring Boot, Python, Django, Microservices, System Design, DevOps  
-- 📚 **Currently Learning:** **Spring Boot**, **AWS**, **DevOps**, **Cryptography & Encryption**  
-- 💬 **Ask me about:** **Django, Python, Java, API Integrations, System Design, Databases, Automation**  
-- ⚡ **Fun Fact:** I automate backend integrations and train AI agents to replace me in the future 🤖  
+<br/><br/>
+
+<a href="https://linkedin.com/in/chakraborty11bishal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/satyanweshium235/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://github.com/satyanweshi11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:bishal.chakraborty390@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
 
 ---
 
-## 🔗 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/chakraborty11bishal" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>  
-  <a href="https://stackoverflow.com/users/22128782" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40"/>
-  </a>  
-  <a href="https://leetcode.com/satyanweshi_chakraborty" target="blank">
-    <img src="https://preview.redd.it/i-have-been-leetcoding-for-a-while-but-what-does-the-v0-ucy9q7w40wtc1.jpg?width=720&format=pjpg&auto=webp&s=41e11a55faf86e0b7bbbddf934b906212caa0fa9" alt="LeetCode" width="40" height="40"/>
-  </a>  
-  <a href="https://instagram.com/satyanweshi_chakraborty" target="blank">
-    <img src="https://img.freepik.com/premium-vector/instagram-vector-logo-icon-social-media-logotype_901408-395.jpg" alt="Instagram" width="40" height="40"/>
-  </a>  
-</p>
+### 👨‍💻 About
+
+Software Engineer II at **OakNorth**, working on a production multi-agent document-intelligence platform (LangGraph · Claude · MCP · PostgreSQL). Previously at **PhonePe** and **Codezin**. I care about system design, event-driven architecture, and shipping things that hold up under real load.
+
+🔭 Currently building event-driven pipelines and agentic AI services — in public, from scratch.
+🌱 Open to backend / AI engineering roles.
 
 ---
 
-## 🛠 Tech Stack  
+### 🗺️ Career
 
-### 💻 Programming Languages  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+```mermaid
+timeline
+    title Career
+    2020 - 2024 : B.Tech CSE, MAKAUT
+    2024 : Codezin · Backend Software Engineer
+    2025 : PhonePe · Software Engineer, Digital Transformation
+    2026 : OakNorth · Software Engineer II
+```
+
+---
+
+### 🛠 Tech
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-059669?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 </p>
 
-### 🏗️ Backend Frameworks  
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/>
-  <img src="https://repository-images.githubusercontent.com/596892/cc2c69ec-9251-4b33-8283-b86a8659c9cb" alt="Flask" width="50" height="50"/>
-</p>
+**Backend:** FastAPI · Django · async · REST · WebSockets
+**AI / Agents:** LangGraph · Claude API · MCP tool calling · RAG · Pydantic
+**Data:** PostgreSQL · Redis · BigQuery · Elasticsearch
+**Cloud / Infra:** AWS (S3, SNS/SQS, Lambda) · GCP · Docker · GitHub Actions CI/CD
 
-### 🗄️ Databases  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" width="50" height="50"/>
-</p>
+---
 
-### ☁️ Cloud & DevOps  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-</p>
+### 🚀 What I'm building
 
-### 🛠️ Tools & Platforms  
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-</p>
+**[salary-pipeline](https://github.com/satyanweshi11/salary-pipeline)** — an event-driven file ingestion pipeline, built end to end.
+- Magic-byte validation → pre-signed S3 uploads → S3 · SNS · SQS → async worker → PostgreSQL (JSONB). FastAPI throughout, LocalStack for AWS in dev.
+- **Roadmap:** three AI engines on top of the pipeline — **Predict** (ML on the ingested data), **Know** (RAG over the documents), and **Act** (agents that take actions).
 
-🚀 **Focused on:**  
-✅ **Backend Mastery** (Spring Boot, Microservices, API Design)  
-✅ **System Design** (High-Level & Low-Level)  
-✅ **DevOps** (CI/CD, AWS, Kubernetes, Terraform)  
-✅ **DSA & Competitive Coding** (Java & Python)  
-✅ **Building Scalable Real-World Projects**  
+**[developer-voice-agent](https://github.com/satyanweshi11/developer-voice-agent)** *(Frequency AI)* — an agentic voice assistant, built in phases.
+- **Phase 1 (shipped):** a hardened real-time **WebSocket** service — concurrency-safe connection manager, resilient broadcast that prunes dead connections, origin allowlisting (CSWSH defense), sliding-window rate limiting, and client auto-reconnect with exponential backoff + jitter. Tested, with CI gating merges.
+- **Roadmap:** **Claude streaming** over the socket → **voice** (speech-to-text in, text-to-speech out) → a **telephony / IVR** layer, with human-in-the-loop checkpoints throughout.
 
-### 📬 Reach Out!  
-📧 **bishal.chakraborty390@gmail.com**  
+---
 
+<div align="center">
+
+### 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=satyanweshi11&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyanweshi11&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top langs"/>
+
+<img src="https://streak-stats.demolab.com?user=satyanweshi11&theme=tokyonight&hide_border=true" height="165" alt="streak"/>
+
+<img src="https://leetcard.jacoblin.cool/satyanweshium235?theme=dark&font=Fira%20Code&ext=heatmap" width="100%" alt="leetcode"/>
+
+</div>
