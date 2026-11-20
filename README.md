@@ -80,4 +80,8 @@ timeline
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=satyanweshi11&show_icons=true&hide_border=true&hide_title=true&count_private=true&include_all_commits=true&theme=graywhite&icon_color=2563EB&ring_color=2563EB"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyanweshi11&layout=compact&hide_border=true&langs_count=8&theme=graywhite&title_color=2563EB"/>
 
+<br/><br/>
+
+<img width="80%" src="https://leetcard.jacoblin.cool/satyanweshium235?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode"/>
+
 </div>
